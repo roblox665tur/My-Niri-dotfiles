@@ -10,6 +10,7 @@
 @use "./applauncher.scss";
 @use "./mediaPlayer.scss";
 @use "roundedcorners.scss";
+@use "./clock.scss";
 @mixin rounded-full {
   border-radius: 9999px;
 }

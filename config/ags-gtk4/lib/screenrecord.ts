@@ -92,7 +92,7 @@ export default class ScreenRecord extends GObject.Object {
       body: `Available in ${this.#screenshots}`,
       actions: {
         "Show in Files": () => sh(`xdg-open ${this.#screenshots}`),
-        View: () => sh(`xdg-open ${file}`),
+        View: () => sh(`feh ${file}`),
         Edit: () => sh(`swappy -f ${file}`),
       },
     });

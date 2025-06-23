@@ -14,6 +14,19 @@ const options = mkOptions(
         { cached: true },
       ),
     },
+    desktop_clock: {
+      position: opt<
+        | "top_left"
+        | "top"
+        | "top_right"
+        | "left"
+        | "center"
+        | "right"
+        | "bottom_left"
+        | "bottom"
+        | "bottom_right"
+      >("top_left"),
+    },
     screencorners: {
       radius: 20,
     },

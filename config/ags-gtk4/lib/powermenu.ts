@@ -4,7 +4,7 @@ import { App } from "astal/gtk4";
 const options = {
   sleep: "systemctl suspend",
   reboot: "systemctl reboot",
-  logout: "pkill Hyprland",
+  logout: "pkill niri",
   shutdown: "shutdown now",
   lockscreen: "hyprlock -q"
 };
