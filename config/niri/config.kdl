@@ -498,6 +498,7 @@ binds {
 
 	Mod+Shift+B hotkey-overlay-title="Toggle bar" { spawn "/home/roblox/.config/niri/scripts/bar.sh"; } 
 
+	Mod+Shift+C hotkey-overlay-title="toggle clock" { spawn "/home/roblox/.config/niri/scripts/toggleClock.sh"; }
 
     // You can also use a shell. Do this if you need pipes, multiple commands, etc.
     // Note: the entire command goes as a single argument in the end.
