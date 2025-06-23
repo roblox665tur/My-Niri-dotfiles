@@ -9,3 +9,4 @@
 - qt5ct/qt6ct
 - aulyrs-gtk-shell
 - pipewire
+- btop
