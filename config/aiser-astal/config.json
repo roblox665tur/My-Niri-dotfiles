@@ -1,0 +1,20 @@
+{
+  "bar": {
+    "position": "top",
+    "separator": true,
+    "start": [
+      "launcher",
+      "workspace",
+    ],
+    "center": [
+      "time"
+    ],
+    "end": [
+      "recordbutton",
+      "network_speed",
+      "tray",
+      "quicksetting",
+      "powermenu"
+    ]
+  }
+}

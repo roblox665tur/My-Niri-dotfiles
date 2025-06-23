@@ -1,0 +1,32 @@
+@use "colors.scss" as *;
+@use "sass:math";
+@use "sass:color";
+
+.clock-container {
+  margin:20px 20px;
+  color: $primary;
+  .unit {
+    padding: 3px 10px 5px 12px;
+    > * {
+      margin: 0 0.7rem;
+    }
+  }
+
+  > box {
+    background-color: color.adjust($background, $alpha: calc(1 - 1));
+    border-radius: 10px;
+
+box-shadow: 2px 2px 0px 0px $primary;
+      .box-label {
+      font-size: 0.9rem;
+      font-style: italic;
+    }
+  }
+
+  label {
+    font-size: 3rem;
+    color: $primary;
+    font-family: "CaskaydiaCove Nerd Font";
+    font-weight: 700;
+  }
+}
