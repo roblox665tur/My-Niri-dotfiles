@@ -1,9 +1,0 @@
-#/bin/bash
-# 重启Hyprland配置
-#sleep 1s
-# 退出当前运行的AGS
-ags quit
-
-# 重新启动AGS
-ags run -d ~/.config/ags-gtk4 --gtk4
-# 启动hyprshde
