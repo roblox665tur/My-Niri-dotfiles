@@ -1,0 +1,95 @@
+/******************
+ * GTK Colors Enhanced
+ * Generated with Matugen For HyprLuna
+ ******************/
+
+/* الألوان الأساسية */
+@define-color accent_color #ffb3af;
+@define-color accent_bg_color #733331;
+@define-color accent_fg_color #ffdad7;
+
+/* ألوان نافذة التطبيق */
+@define-color window_bg_color #1a1111;
+@define-color window_fg_color #f0dedd;
+
+/* ألوان شريط العنوان */
+@define-color headerbar_bg_color #271d1d;
+@define-color headerbar_fg_color #f0dedd;
+@define-color headerbar_border_color #a08c8b;
+@define-color headerbar_shade_color #322827;
+
+/* ألوان العناصر المنبثقة */
+@define-color popover_bg_color #271d1d;
+@define-color popover_fg_color #f0dedd;
+
+/* ألوان العرض */
+@define-color view_bg_color #1a1111;
+@define-color view_fg_color #f0dedd;
+
+/* ألوان البطاقات */
+@define-color card_bg_color #231919;
+@define-color card_fg_color #f0dedd;
+@define-color card_shade_color #000000;
+
+/* ألوان الشريط الجانبي */
+@define-color sidebar_bg_color @window_bg_color;
+@define-color sidebar_fg_color @window_fg_color;
+@define-color sidebar_border_color @window_bg_color;
+@define-color sidebar_backdrop_color @window_bg_color;
+
+/* ألوان الخلفية والنص */
+@define-color bg_color #1a1111;
+@define-color fg_color #f0dedd;
+@define-color text_color #f0dedd;
+@define-color text_color_disabled #f0dedd;
+
+/* ألوان الأزرار */
+@define-color button_bg_color #271d1d;
+@define-color button_fg_color #f0dedd;
+@define-color button_hover_color #ffb3af;
+@define-color button_active_color #ffb3af;
+@define-color button_checked_bg_color #733331;
+@define-color button_checked_fg_color #ffdad7;
+
+/* ألوان الإطارات */
+@define-color borders #a08c8b;
+@define-color outline_color #a08c8b;
+@define-color outline_variant_color #534342;
+
+/* ألوان الروابط */
+@define-color link_color #e2c28c;
+@define-color link_visited_color #594319;
+
+/* ألوان التحذير والخطأ */
+@define-color warning_color #ffb4ab;
+@define-color warning_bg_color #93000a;
+@define-color warning_fg_color #ffdad6;
+@define-color error_color #ffb4ab;
+@define-color error_bg_color #93000a;
+@define-color error_fg_color #ffdad6;
+@define-color success_color #e2c28c;
+@define-color success_bg_color #594319;
+@define-color success_fg_color #ffdea9;
+
+/* ألوان الحالة النشطة والمحددة */
+@define-color selected_bg_color #733331;
+@define-color selected_fg_color #ffdad7;
+@define-color selected_text_color #ffdad7;
+
+/* ألوان التفاعلية */
+@define-color hover_color #ffb3af;
+@define-color focus_color #ffb3af;
+
+/* ألوان وضع الظلام المخصصة */
+@define-color dark_fill_color #3d3231;
+@define-color light_fill_color #423736;
+
+/* ألوان الاشعارات */
+@define-color info_color #e7bdba;
+@define-color info_bg_color #5d3f3d;
+@define-color info_fg_color #ffdad7;
+
+/* ألوان الشفافية */
+@define-color shade_color #000000;
+@define-color backdrop_color #534342;
+@define-color overlay_color #000000;

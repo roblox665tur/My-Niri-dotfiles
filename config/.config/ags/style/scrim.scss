@@ -1,0 +1,10 @@
+@use "sass:string";
+@use "sass:color";
+@use "colors.scss" as *;
+.transparent-scrim {
+  background: transparent;
+}
+
+.scrim {
+  background: color.scale($scrim, $alpha: -68%);
+}
