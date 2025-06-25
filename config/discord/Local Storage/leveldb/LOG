@@ -1,9 +1,0 @@
-2025/06/23-12:26:48.653 4bb3 Reusing MANIFEST /home/roblox/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2025/06/23-12:26:49.210 4bb3 Recovering log #29
-2025/06/23-12:26:49.257 4bb3 Reusing old log /home/roblox/.config/discord/Local Storage/leveldb/000029.log 
-2025/06/23-12:27:53.846 4bb3 Level-0 table #34: started
-2025/06/23-12:27:53.894 4bb3 Level-0 table #34: 18035 bytes OK
-2025/06/23-12:27:53.926 4bb3 Delete type=0 #29
-2025/06/23-12:44:58.574 4bb4 Level-0 table #36: started
-2025/06/23-12:44:58.661 4bb4 Level-0 table #36: 1043079 bytes OK
-2025/06/23-12:44:58.695 4bb4 Delete type=0 #33
